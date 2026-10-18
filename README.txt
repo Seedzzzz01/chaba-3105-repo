@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/Seedzzzz01/chaba-3105-repo/main/repo.json
 การ Refresh Source จะอัปเดตรายการ ไม่ได้ Apply เกมให้อัตโนมัติ
 
 อัปเดตครั้งนี้
+- ย่อข้อความในแถบ CHANGELOG ของเกมให้ตรงกับ Source
 - แก้ Source ที่ขึ้น Unsupported บน iOS/iPadOS 27.x โดยอนุญาตทุก build
 - เปลี่ยนสกิน: เปิดแชตในแมตช์ พิมพ์ /skin 1 แล้วกดส่ง เลือกเลข 0–99 ได้
 - คืนสกินเดิม: /skin reset ต้องมีทรัพยากรสกินพร้อม ใช้ตอนฮีโร่ยังมีชีวิต

@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/repo.json
+!/sources.json
+!/README.txt
+!/packages/
+!/packages/*.3105

@@ -9,7 +9,7 @@
       "kind": "patch",
       "name": "CHABA Menu 1.64.1",
       "author": "CHABA",
-      "version": "1.64.1-commands.3",
+      "version": "1.64.1-commands.4",
       "summary": "เปลี่ยนสกิน ปรับกล้อง และเมนู CHABA",
       "description": "เมนู CHABA สำหรับ RoV 1.64.1 พร้อมคำสั่งเปลี่ยนสกินและปรับกล้อง",
       "category": "CHABA",
@@ -18,18 +18,37 @@
         "RoV",
         "Testing"
       ],
-      "publishedAt": "2026-10-18T19:50:38+00:00",
+      "publishedAt": "2026-10-19T04:44:22+00:00",
       "download": "packages/CHABA_Commands_Changelog_1.64.1.3105",
       "sha256": "362ef041c72198e644f31270d7eaf7fc5ad0a29f132fd5ad86b6b67cc6458dd6",
       "size": 234830,
       "supportedOS": [
         {
-          "minimum": "26.5",
-          "maximum": "26.5"
+          "minimum": "17.0",
+          "maximum": "18.7.10"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.7"
         },
         {
           "minimum": "27.0",
-          "maximum": "27.999.999"
+          "maximum": "27.2",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
+          ]
         }
       ],
       "changelog": "• แก้ Source ขึ้น Unsupported บน iOS/iPadOS 27.x\n• สกิน: /skin 0–99 | คืนค่า /skin reset\n  เห็นเฉพาะเครื่องเรา ต้องมีทรัพยากรสกิน\n• กล้อง: /cam 1–4 เช่น /cam 2.5\n  คืนค่า /cam reset\n• เอ็กคิ้วอัตโนมัติ: ศัตรูเลือดต่ำกว่า 15%\n• ปรับการแสดงคูลดาวน์ Talent\n• เพิ่มแถบ CHANGELOG\nพิมพ์ /skin และ /cam ในแชตระหว่างแมตช์",

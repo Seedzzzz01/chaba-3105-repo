@@ -3,6 +3,18 @@ CHABA Repository สำหรับ 3105
 Source:
 https://raw.githubusercontent.com/Seedzzzz01/chaba-3105-repo/main/repo.json
 
+รุ่นใหม่แยก: 1.64.1-clean.1 — CHABA CLEAN Percent 1.64.1
+- เลือกรายการ CLEAN Percent เพิ่มจาก Menu Studio เดิม ไม่ใช่ไฟล์เดียวกัน
+- เอ็กคิ้วปรับ 1–99% พร้อมจำค่า ในหน้า FUNCTION
+- ไม่มี ESP overlay และ AUTO Play; Hack Map เปิดอัตโนมัติตามฐาน CLEAN
+- ปิด RoV > Restore แพ็กเกจที่ Apply อยู่ > Download CLEAN Percent > Apply เพียงชุดเดียว
+- Source เดิม Refresh ได้เลย หากติดแคชให้เพิ่ม:
+  https://raw.githubusercontent.com/Seedzzzz01/chaba-3105-repo/main/repo.json?refresh=clean1
+- ผ่านการทดสอบคำสั่ง Talent และแบบจำลอง 45 นาที ยังไม่ใช่การยืนยันเล่นจริง 45 นาที
+- การเข้า Source ได้และช่วง OS ในรายการไม่ยืนยันว่าตัวแอป 3105 รองรับ OS/build นั้น
+
+รายการ Menu Studio เดิมยังอยู่ใน Source และคงไฟล์เดิมไว้ทั้งหมด
+
 รุ่นรายการ 1.64.1-commands.6 — CHABA Menu Studio
 - หน้ากรอกคีย์สีถ่าน/มิ้นต์ พร้อมปุ่มวางและสถานะตรวจสอบ
 - เมนูใหม่ สวิตช์เคลื่อนไหว กลุ่มพับได้ ปรับขนาด/ความทึบใน SETTING

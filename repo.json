@@ -5,6 +5,58 @@
   "description": "แพ็กเกจ CHABA สำหรับ RoV",
   "packages": [
     {
+      "identifier": "chaba-rov-clean-percent-1641",
+      "kind": "patch",
+      "name": "CHABA CLEAN Percent 1.64.1",
+      "author": "CHABA",
+      "version": "1.64.1-clean.1",
+      "summary": "รุ่น CLEAN ปรับเอ็กคิ้วได้ 1–99%",
+      "description": "เมนูเรียบง่าย ไม่มี ESP หรือ AUTO Play",
+      "category": "CHABA",
+      "tags": [
+        "CHABA",
+        "RoV",
+        "Clean",
+        "Testing"
+      ],
+      "publishedAt": "2026-10-19T15:52:02+00:00",
+      "download": "packages/CHABA_Clean_Percent_TEST_1.64.1.3105",
+      "sha256": "d33fda904a68c411225c9eb1d964d4fd43ba0fcdf364261343d3cad636c9499f",
+      "size": 274430,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.10"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.7"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.2",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
+          ]
+        }
+      ],
+      "changelog": "• ปรับเอ็กคิ้ว 1–99% พร้อมจำค่า\n• ใช้ปุ่ม −/+ หรือแถบลากใน FUNCTION\n• /skin และ /cam เหมือนเดิม\n• เปิดเมนู: 3 นิ้วแตะจอ 2 ครั้ง",
+      "featured": true,
+      "isPrivate": false
+    },
+    {
       "identifier": "chaba-rov-menu-1641",
       "kind": "patch",
       "name": "CHABA Menu Studio 1.64.1",

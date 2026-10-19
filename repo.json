@@ -7,21 +7,21 @@
     {
       "identifier": "chaba-rov-menu-1641",
       "kind": "patch",
-      "name": "CHABA Menu 1.64.1",
+      "name": "CHABA Menu Studio 1.64.1",
       "author": "CHABA",
-      "version": "1.64.1-commands.5",
-      "summary": "เปลี่ยนสกิน ปรับกล้อง และเมนู CHABA",
-      "description": "เมนู CHABA สำหรับ RoV 1.64.1 พร้อมคำสั่งเปลี่ยนสกินและปรับกล้อง",
+      "version": "1.64.1-commands.6",
+      "summary": "เมนู CHABA โฉมใหม่ สกิน และกล้อง",
+      "description": "เมนู CHABA สำหรับ RoV 1.64.1",
       "category": "CHABA",
       "tags": [
         "CHABA",
         "RoV",
         "Testing"
       ],
-      "publishedAt": "2026-10-19T04:53:41+00:00",
-      "download": "packages/CHABA_MenuStudio_Gesture_1.64.1.3105",
-      "sha256": "facbd114f431e68d3c370c98835c91971b93f763812f2ce90f9705ef2d3ec059",
-      "size": 258167,
+      "publishedAt": "2026-10-19T05:30:17+00:00",
+      "download": "packages/CHABA_MenuStudio_AuthTheme_1.64.1.3105",
+      "sha256": "c87bae228da7ee8da035999a2c56fabbe7b5e4c208c36474e6a3ec95a86aac00",
+      "size": 270764,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -51,7 +51,7 @@
           ]
         }
       ],
-      "changelog": "• เมนูใหม่: สวิตช์เลื่อนและกลุ่มพับได้\n• เปิด/ปิด: 3 นิ้วแตะจอ 2 ครั้ง\n• ปรับขนาดและความทึบใน SETTING\n• สกิน: /skin 0–99 | /skin reset\n  เห็นเฉพาะเครื่องเรา ต้องมีทรัพยากรสกิน\n• กล้อง: /cam 1–4 เช่น /cam 2.5\n  คืนค่า /cam reset\n• เอ็กคิ้ว: ศัตรูเลือดต่ำกว่า 15%\n• แสดงคูลดาวน์สกิลและ Talent",
+      "changelog": "• ปรับหน้าตา CHABA ให้เข้าชุดกัน\n• สวิตช์เลื่อนและกลุ่มพับได้\n• เปิด/ปิด: 3 นิ้วแตะจอ 2 ครั้ง\n• ปรับขนาดและความทึบใน SETTING\n• สกิน: /skin 0–99 | /skin reset\n  เห็นเฉพาะเครื่องเรา ต้องมีทรัพยากรสกิน\n• กล้อง: /cam 1–4 เช่น /cam 2.5\n  คืนค่า /cam reset\n• เอ็กคิ้ว: ศัตรูเลือดต่ำกว่า 15%\n• แสดงคูลดาวน์สกิลและ Talent",
       "featured": true,
       "isPrivate": false
     }

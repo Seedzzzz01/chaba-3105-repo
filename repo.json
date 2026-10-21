@@ -7,10 +7,10 @@
     {
       "identifier": "chaba-rov-clean-percent-1641",
       "kind": "patch",
-      "name": "CHABA CLEAN Percent 1.64.1",
+      "name": "CHABA CLEAN 1.64.1",
       "author": "CHABA",
-      "version": "1.64.1-clean.1",
-      "summary": "รุ่น CLEAN ปรับเอ็กคิ้วได้ 1–99%",
+      "version": "1.64.1-clean.2",
+      "summary": "รุ่น CLEAN · แก้หลุด",
       "description": "เมนูเรียบง่าย ไม่มี ESP หรือ AUTO Play",
       "category": "CHABA",
       "tags": [
@@ -19,10 +19,10 @@
         "Clean",
         "Testing"
       ],
-      "publishedAt": "2026-10-19T15:52:02+00:00",
-      "download": "packages/CHABA_Clean_Percent_TEST_1.64.1.3105",
-      "sha256": "d33fda904a68c411225c9eb1d964d4fd43ba0fcdf364261343d3cad636c9499f",
-      "size": 274430,
+      "publishedAt": "2026-10-21T17:27:16+00:00",
+      "download": "packages/CHABA_Clean_SessionKey_TEST_1.64.1.3105",
+      "sha256": "0964358e47ca10a7c34d2269c817a882b83ab50c22eca73cffb2574e8dd25f5b",
+      "size": 268754,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -52,7 +52,7 @@
           ]
         }
       ],
-      "changelog": "• ปรับเอ็กคิ้ว 1–99% พร้อมจำค่า\n• ใช้ปุ่ม −/+ หรือแถบลากใน FUNCTION\n• /skin และ /cam เหมือนเดิม\n• เปิดเมนู: 3 นิ้วแตะจอ 2 ครั้ง",
+      "changelog": "• แก้หลุด",
       "featured": true,
       "isPrivate": false
     },

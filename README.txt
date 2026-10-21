@@ -1,12 +1,6 @@
-รุ่นใหม่แยก: 1.64.1-menufix.1 — CHABA MenuFix TEST 1.64.1
-- FUNCTION แยกเป็น ทั่วไป / เอ็กคิ้ว / กล้อง
-- ปุ่ม Bijan อยู่ SETTING > HERO · Bijan / Grakk
-- Hack Map เริ่มต้นเปิด เปิด–ปิดแยกจาก ESP และจำค่า
-- เป็นชุด TEST แยก เก็บ CLEAN Percent กับ Menu Studio เดิมไว้
-- ปิด RoV > Restore ชุดเดิม > ดาวน์โหลด MenuFix TEST > Apply เพียงชุดเดียว
-- ผ่านการตรวจในเครื่องและตรวจแพ็กเกจ ยังไม่ได้ยืนยันการแสดงผลบน iPhone จริง
-- Source เดิม Refresh ได้ หากติดแคชใช้:
-  https://raw.githubusercontent.com/Seedzzzz01/chaba-3105-repo/main/repo.json?refresh=menufix1
+ถอน MenuFix TEST 1.64.1-menufix.1 ตามคำขอ กลับใช้ CLEAN Percent 1.64.1-clean.1
+ปิด RoV และ Restore MenuFix ที่ Apply อยู่ก่อนลง CLEAN Percent
+ESP รุ่นใหม่กำลังเตรียมแยก ยังไม่ใช่ไฟล์ CLEAN ที่เผยแพร่นี้
 
 CHABA Repository สำหรับ 3105
 

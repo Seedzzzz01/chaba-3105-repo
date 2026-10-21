@@ -5,6 +5,58 @@
   "description": "แพ็กเกจ CHABA สำหรับ RoV",
   "packages": [
     {
+      "identifier": "chaba-rov-menufix-test-1641",
+      "kind": "patch",
+      "name": "CHABA MenuFix TEST 1.64.1",
+      "author": "CHABA",
+      "version": "1.64.1-menufix.1",
+      "summary": "เมนูแยกหมวด ใช้ง่ายขึ้น",
+      "description": "ชุดทดสอบเมนูใหม่สำหรับ RoV 1.64.1",
+      "category": "CHABA",
+      "tags": [
+        "CHABA",
+        "RoV",
+        "MenuFix",
+        "Testing"
+      ],
+      "publishedAt": "2026-10-21T04:45:46+00:00",
+      "download": "packages/CHABA_Native_MenuFix_MapDefault_TEST_1.64.1.3105",
+      "sha256": "a7645614aa6635cfd0fdc365b1ec2626d39377d89585fa76e3bde9bca43d3889",
+      "size": 400826,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.10"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.7"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.2",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f",
+            "24A5408d",
+            "24A5418b",
+            "24A5424a",
+            "24A5430a",
+            "24A435",
+            "24A437",
+            "24B5084K",
+            "24B5089g",
+            "24A446"
+          ]
+        }
+      ],
+      "changelog": "• FUNCTION แยกทั่วไป / เอ็กคิ้ว / กล้อง\n• เปิด Bijan ใน SETTING → HERO\n• Hack Map เปิดเริ่มต้น ปิดได้และจำค่า\n• เมนูเปิดด้วย 3 นิ้วแตะจอ 2 ครั้ง",
+      "featured": true,
+      "isPrivate": false
+    },
+    {
       "identifier": "chaba-rov-clean-percent-1641",
       "kind": "patch",
       "name": "CHABA CLEAN Percent 1.64.1",
